@@ -18,10 +18,11 @@ Arquivos do Curso OneBitCode
 6. Flexbox: https://flexboxfroggy.com/
 7. CSS Grid: https://www.youtube.com/watch?v=HN1UjzRSdBk
 
-# https://cdnjs.com/libraries/font-awesome/5.15.4
 
-# Bulma
+
+# Bulma + font-awesome
 1. https://bulma.io/documentation/overview/start/
 2. https://bulma.io/documentation/components/navbar/
+3. https://cdnjs.com/libraries/font-awesome/5.15.4
 
 # JS
