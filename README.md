@@ -26,3 +26,10 @@ Arquivos do Curso OneBitCode
 3. https://cdnjs.com/libraries/font-awesome/5.15.4
 
 # JS
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+3. Documentação de Array https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
+4. Findindex https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
+5. Join https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+
+
