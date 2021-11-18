@@ -32,4 +32,4 @@ Arquivos do Curso OneBitCode
 4. Findindex https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex
 5. Join https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/join
 
-
+# 
